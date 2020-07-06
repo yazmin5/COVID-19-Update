@@ -1,5 +1,5 @@
 # COVID-19 Updates
-Sebuah single-page website untuk mengetahui perkembangan terbaru mengenai pasien COVID-19 di berbagai negara
+Sebuah single-page website untuk mengetahui perkembangan terbaru mengenai jumlah pasien COVID-19 di berbagai negara
 
 ## Step untuk menggunakan: 
 1. Install dependencies
